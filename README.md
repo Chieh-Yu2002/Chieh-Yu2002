@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **mapping of self-driving cars**
 
-- 🌱 I’m currently learning **robotics and preparation in Toefl**
+- 🌱 I’m currently learning **robotics** and preparation in **Toefl**
 
 - 📫 How to reach me **uuvivi@gmail.com**
 
