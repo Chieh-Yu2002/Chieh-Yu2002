@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chieh-Yu (Aasta)</h1>
 <h3 align="center">A student with a strong interest in robotics from Taiwan</h3>
 
-- 🔭 I’m currently working on **mapping of self-driving cars**
+- 🔭 I’m currently working on **path planning of self-driving cars**
 
 - 🌱 I’m currently learning **robotics** and preparation in **Toefl**
 
