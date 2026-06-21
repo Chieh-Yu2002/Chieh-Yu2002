@@ -2,7 +2,7 @@
 
 - 🤖 I am an incoming MRSD student at Carnegie Mellon University and a Robotics Engineer from Taiwan, deeply passionate about autonomous localization, planning, and intelligent mobility.</h3>
 
-- 📫 How to reach me **uuvivi@gmail.com**
+- 📫 How to reach me **lcy.yu112@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
