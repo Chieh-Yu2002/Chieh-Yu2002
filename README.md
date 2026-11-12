@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chieh-Yu (Aasta)</h1>
 
-- 🤖 I am an incoming MRSD student at Carnegie Mellon University and a Robotics Engineer from Taiwan, deeply passionate about autonomous localization, planning, and intelligent mobility.</h3>
+- 🤖 I am a MRSD student at Carnegie Mellon University and a Robotics Engineer from Taiwan, deeply passionate about autonomous localization, planning, and intelligent mobility.</h3>
 
 - 📫 How to reach me **lcy.yu112@gmail.com**
 
